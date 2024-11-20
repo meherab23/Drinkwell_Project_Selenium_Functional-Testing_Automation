@@ -8,7 +8,7 @@
  The Drinkwell application provides a comprehensive platform for managing water-related resources. This automation project tests critical functionalities to 
  ensure the application's reliability and usability.
 
-## Server URL: [Drinkwell Application](http://13.214.1.75/#/login)
+## Server URL: [Drinkwell Application][(http://13.214.1.75/#/home)]
 
 ## Technologies Used
 Python: Programming language for scripting.
