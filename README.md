@@ -8,7 +8,7 @@
  The Drinkwell application provides a comprehensive platform for managing water-related resources. This automation project tests critical functionalities to 
  ensure the application's reliability and usability.
 
-## Server URL: http://13.214.1.75/#/login
+## Server URL: [Drinkwell Application](http://13.214.1.75/#/login)
 
 ## Technologies Used
 Python: Programming language for scripting.
@@ -35,6 +35,7 @@ tests/check_balance_View_Cards_assign_Cards.py: Validates balance checks and car
 tests/All_Setting.py: Comprehensive tests for all settings and configurations.
 
 ## Drinkwell Automation Testing
+
 Drinkwell_Project_Selenium_Functional-Testing_Automation/
 ├── .vscode/                  # VS Code settings
 ├── tests/                    # Test scripts
